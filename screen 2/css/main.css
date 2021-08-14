@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+/* body background pic start ------- body backgound becouse its just one page as test  not section */
+body{
+        background-image: url(../data/pattern.jpg);
+        width: 100%;
+        background-size:cover;
+        height:575px;
+}
+p{
+    color: white;
+  
+}
+p:first-of-type{
+    padding-top: 50px;
+}
+
+/* body background pic start */
